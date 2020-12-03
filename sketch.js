@@ -37,7 +37,7 @@ function setup(){
     bird = new Bird(100,100);
 
     platform = new Ground(180,305,400,170);
-
+//this is me shloka
 }
 
 function draw(){
